@@ -1,25 +1,25 @@
 {
   "schemaVersion": 1,
-  "id": "awesome_plates",
+  "id": "just_enough_plates",
   "version": "${version}",
-  "name": "Awesome Plates",
-  "description": "Awesome Plates revamps the armor crafting process in Minecraft.",
+  "name": "Just Enough Plates",
+  "description": "This mod adds plates to the game that can be used in recipes.",
   "authors": [
     "TheButterbrotMan",
     "Mikhail Tapio"
   ],
   "contact": {
-    "repo": "https://github.com/TheButterbrotMan/Awesome-Plates"
+    "repo": "https://github.com/TheButterbrotMan/Just-Enough-Plates"
   },
-  "license": "All-Rights-Reserved",
-  "icon": "assets/awesome_plates/icon.png",
+  "license": "GPL-3.0",
+  "icon": "assets/just_enough_plates/icon.png",
   "environment": "*",
   "entrypoints": {
     "client": [
-      "io.github.thebutterbrotman.awesome_plates.client.AwesomeplatesClient"
+      "io.github.thebutterbrotman.just_enough_plates.client.JustenoughplatesClient"
     ],
     "main": [
-      "io.github.thebutterbrotman.awesome_plates.AwesomePlates"
+      "io.github.thebutterbrotman.just_enough_plates.JustEnoughPlates"
     ]
   },
   "depends": {
