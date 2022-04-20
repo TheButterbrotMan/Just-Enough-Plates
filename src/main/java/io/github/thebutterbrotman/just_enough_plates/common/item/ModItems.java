@@ -8,6 +8,9 @@ import net.minecraft.util.registry.Registry;
 
 public class ModItems {
 
+    //Leather
+    public static final Item LEATHER_PLATE = registerItem("leather_plate"
+            , new PlateItem());
     //Iron
     public static final Item IRON_PLATE = registerItem("iron_plate"
             , new PlateItem());
