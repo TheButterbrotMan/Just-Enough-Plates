@@ -1,8 +1,12 @@
 {
   "Plates": "",
+  "item.just_enough_plates.leather_plate": "Leather Plate",
   "item.just_enough_plates.iron_plate": "Iron Plate",
   "item.just_enough_plates.golden_plate": "Golden Plate",
   "item.just_enough_plates.diamond_plate": "Diamond Plate",
   "item.just_enough_plates.netherite_plate": "Netherite Plate",
-  "item.just_enough_plates.dirtmond_plate": "Dirtmond Plate"
+  "item.just_enough_plates.gilded_netherite_plate": "Gilded Netherite Plate",
+  "item.just_enough_plates.amethyst_plate": "Amethyst Plate",
+  "item.just_enough_plates.dirtmond_plate": "Dirtmond Plate",
+  "item.just_enough_plates.therrassium_plate": "Therrassium Plate"
 }
