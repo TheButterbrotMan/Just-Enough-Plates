@@ -37,7 +37,7 @@ public class InterModItems {
         if (IMUtils.AMETHYSTEQUIPMENT_LOADED) {
             IMUtils.logInterModRegStatus(IMUtils.AMETHYSTEQUIPMENT_MODNAME, IMUtils.REG, false);
 
-            Item AMETHYSTEQUIPMENT_PLATE = registerItem("amethystequipment_plate"
+            Item AMETHYSTEQUIPMENT_PLATE = registerItem("amethyst_plate"
                     , new PlateItem());
         }
             //AdventureZ
