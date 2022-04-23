@@ -1,8 +1,13 @@
 {
 "Plates": "",
+  "item.just_enough_plates.leather_plate": "Lederplatte",
   "item.just_enough_plates.iron_plate": "Eisenplatte",
   "item.just_enough_plates.golden_plate": "Goldplatte",
   "item.just_enough_plates.diamond_plate": "Diamantplatte",
   "item.just_enough_plates.netherite_plate": "Netheritplatte",
-  "item.just_enough_plates.dirtmond_plate": "Erdmantplatte"
+  "item.just_enough_plates.gilded_netherite_plate": "Vergoldete Netheriteplatte",
+  "item.just_enough_plates.amethyst_plate": "Amethystplatte",
+  "item.just_enough_plates.dirtmond_plate": "Erdmandplatte",
+  "item.just_enough_plates.therrassium_plate": "Therrassiumplatte",
+  "item.just_enough_plates.rose_gold_plate": "Rosengoldplatte"
 }

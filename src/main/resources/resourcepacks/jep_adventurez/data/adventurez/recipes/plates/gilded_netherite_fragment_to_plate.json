@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "adventurez:gilded_netherite_fragment"
+    },
+    {
+      "item": "adventurez:gilded_netherite_fragment"
+    },
+    {
+      "tag": "just_enough_hammers:hammers"
+    },
+    {
+      "item": "adventurez:gilded_netherite_fragment"
+    },
+    {
+      "item": "adventurez:gilded_netherite_fragment"
+    }
+  ],
+  "result": {
+    "item": "just_enough_plates:gilded_netherite_plate",
+    "count": 1
+  },
+  "group": "just_enough_plates"
+}

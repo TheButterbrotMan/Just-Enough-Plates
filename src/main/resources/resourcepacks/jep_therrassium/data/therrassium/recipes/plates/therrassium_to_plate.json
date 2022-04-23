@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "therrassium:therrassium_ingot"
+    },
+    {
+      "item": "therrassium:therrassium_ingot"
+    },
+    {
+      "tag": "just_enough_hammers:hammers"
+    },
+    {
+      "item": "therrassium:therrassium_ingot"
+    },
+    {
+      "item": "therrassium:therrassium_ingot"
+    }
+  ],
+  "result": {
+    "item": "just_enough_plates:therrassium_plate",
+    "count": 1
+  },
+  "group": "just_enough_plates"
+}
