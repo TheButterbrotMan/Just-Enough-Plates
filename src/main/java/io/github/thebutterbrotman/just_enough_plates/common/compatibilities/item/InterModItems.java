@@ -40,13 +40,21 @@ public class InterModItems {
             Item AMETHYSTEQUIPMENT_PLATE = registerItem("amethyst_plate"
                     , new PlateItem());
         }
-            //AdventureZ
+        //AdventureZ
         if (IMUtils.ADVENTUREZ_LOADED) {
             IMUtils.logInterModRegStatus(IMUtils.ADVENTUREZ_MODNAME, IMUtils.REG, false);
 
             Item GILDED_NETHERITE_PLATE = registerItem("gilded_netherite_plate"
                     , new PlateItem());
         }
+        //Minecraft Comes Alive
+        if (IMUtils.MCA_LOADED) {
+            IMUtils.logInterModRegStatus(IMUtils.MCA_MODNAME, IMUtils.REG, false);
+
+            Item ROSE_GOLD_PLATE = registerItem("rose_gold_plate"
+                    , new PlateItem());
+        }
                     IMUtils.logInterModRegStatus(IMUtils.ADVENTUREZ_MODNAME, IMUtils.REG, true);
                 }
             }
+
